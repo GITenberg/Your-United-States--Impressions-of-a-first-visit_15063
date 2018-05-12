@@ -1,0 +1,38 @@
+_repo: Your-United-States--Impressions-of-a-first-visit_15063
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Craig, Frank
+    birthdate: 1874
+    deathdate: 1918
+    gutenberg_agent_id: '32640'
+    url: http://www.gutenberg.org/2009/agents/32640
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Bennett, Arnold
+    aliases:
+    - Bennett, E. Arnold
+    - Bennett, Enoch Arnold
+    birthdate: 1867
+    deathdate: 1931
+    gutenberg_agent_id: '859'
+    url: http://www.gutenberg.org/2009/agents/859
+    wikipedia: http://en.wikipedia.org/wiki/Arnold_Bennett
+description: ''
+gutenberg_bookshelf: Bestsellers, American, 1895-1923
+gutenberg_issued: '2005-02-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15063'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'E151'
+- !lcsh 'United States -- Social life and customs -- 1865-1918'
+title: 'Your United States: Impressions of a first visit'
+url: http://www.gutenberg.org/ebooks/15063
