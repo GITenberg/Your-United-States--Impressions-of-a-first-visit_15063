@@ -22,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/859
     wikipedia: http://en.wikipedia.org/wiki/Arnold_Bennett
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/15063#Your-United-States--Impressions-of-a-first-visit
 gutenberg_bookshelf: Bestsellers, American, 1895-1923
 gutenberg_issued: '2005-02-15'
 gutenberg_type: Text
